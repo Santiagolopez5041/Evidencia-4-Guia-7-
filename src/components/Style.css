@@ -1,0 +1,68 @@
+/* Style.css */
+
+.header {
+    background-color: #001F3F;
+    padding: 55px;
+  }
+  
+  .header h1 {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+  }
+
+  /* Style.css */
+
+.footer {
+    background-color: #001F3F;
+    color: #ffffff;
+    padding: 20px; /* relleno */
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #ffffff; /* Color de los enlaces */
+    text-decoration: none; /* Elimina el subrayado de los enlaces  */
+    margin-right: 10px; /* Espacio entre los enlaces  */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Añade subrayado al pasar el ratón sobre los enlaces  */
+  }
+  
+
+.welcome-container {
+  margin-top: 40px; /* Ajusta el margen superior del mensaje de bienvenida según sea necesario */
+}
+
+.welcome-message {
+  font-weight: bold;
+}
+
+/* Style.css */
+.medical-exam {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  margin: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+.medical-exam h3, .medical-exam p {
+  color: #001f3f;
+}
+
+.download-button {
+  background-color: #001f3f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+
